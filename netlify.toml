@@ -1,3 +1,3 @@
 [build]
-  publish = "public"
   command = "python main.py"
+  publish = "output_directory"
