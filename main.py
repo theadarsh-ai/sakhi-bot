@@ -186,7 +186,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
 
-    st.title("📄 Chat with PDFs")
+    st.title("Sakhi Bot 🤖")
     
 
     # Intro Message
